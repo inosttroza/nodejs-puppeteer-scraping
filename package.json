@@ -1,0 +1,24 @@
+{
+  "name": "node-puppeteer-scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Pablo Inotroza",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cron": "^1.8.2",
+    "dotenv": "^10.0.0",
+    "fs-extra": "^10.0.0",
+    "nodemailer": "^6.6.3",
+    "puppeteer": "^5.5.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
