@@ -31,7 +31,6 @@ $ npm run dev
 2- http://quotes.toscrape.com/ <br>
 3- https://www.kokiri.cl/presta17/index.php?id_product=376&id_product_attribute=200&rewrite=audifonos-rojos-havit-h2582bt&controller=product&id_lang=2#/10-color-rojo <br>
 
-![Screenshot](puppeteer-files/puppeteer-files.png)
-![Screenshot](puppeteer-files/file.pdf)
+![Screenshot](puppeteer-files/screenshot.png)
 
 
